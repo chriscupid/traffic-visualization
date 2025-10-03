@@ -8,11 +8,6 @@ Easy to reproduce with one script (plot.py)
 
 A) Dataset Preview (visitors.csv)
 Month	Searches	Direct	Social Media
-07/2019	50	39	70
-08/2019	53	47	80
-09/2019	59	42	90
-10/2019	56	51	87
-11/2019	62	51	92
 
 B) Installation & Setup
 Clone the repository:
