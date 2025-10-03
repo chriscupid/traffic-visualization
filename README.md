@@ -4,20 +4,7 @@ A simple data science project to visualize website traffic sources (search, dire
 Reads website traffic data from data/visitors.csv
 Plots line charts of monthly visitors by source
 Saves the visualization into the screenshots/ folder
-Easy to reproduce with one script (plot.py)
-
-📂 Project Structure
-traffic-visualization/
-│
-├── data/
-│   └── visitors.csv        
-│
-├── screenshots/
-│   └── plot.png           
-│
-├── plot.py                 
-├── requirements.txt        
-└── README.md              
+Easy to reproduce with one script (plot.py)       
 
 A) Dataset Preview (visitors.csv)
 Month	Searches	Direct	Social Media
